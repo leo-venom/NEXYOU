@@ -1,0 +1,17 @@
+# Android / Gradle
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/keystore.properties
+android/keystore/
+*.apk
+*.aab
+*.jks
+*.keystore
+.idea/
+*.iml
+
+# Sistema / temporários
+.DS_Store
+*.log

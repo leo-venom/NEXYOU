@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Build rápido para iteração (sem R8): ./gradlew-fast [args extras]
+# Equivale a: ./gradlew assembleFast
+exec "$(dirname "$0")/gradlew" assembleFast "$@"

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NexYou" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/nx_bg</item>
+        <item name="android:statusBarColor">@color/nx_bg</item>
+        <item name="android:navigationBarColor">@color/nx_bg</item>
+        <item name="android:colorPrimary">@color/nx_bg</item>
+        <item name="android:colorPrimaryDark">@color/nx_bg</item>
+        <item name="android:colorAccent">@color/nx_accent</item>
+    </style>
+</resources>
